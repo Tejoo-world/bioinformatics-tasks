@@ -1,0 +1,6 @@
+{
+  "name": "Bioinformatics Lab Assistant",
+  "description": "Interactive workspace for Multiple Sequence Alignment, 3D Protein Structure Prediction, and Bioinformatics Academic Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
